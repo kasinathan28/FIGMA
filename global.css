@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --poppins-18-medium: Poppins;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --poppins-18-medium-size: 18px;
+  --poppins-14-medium-size: 14px;
+  --poppins-semi-bold-23-size: 23px;
+  --poppins-semi-bold-35-size: 35px;
+  --poppins-28-medium-size: 28px;
+
+  /* Colors */
+  --color-darkslategray-100: #3c4147;
+  --dark-colour: #2e333a;
+  --white-colour: #fff;
+  --secondary-blue-light-2: #b8f1fc;
+  --blue-grey-light: #e7ecef;
+  --color-silver: #b2c2cb;
+  --secondary-blue-light-1: #72e4f9;
+  --color-skyblue-100: #0ed2f6;
+  --blue-grey-dark: #668599;
+  --dark-blue: #0c2756;
+  --color-darkorange: #f4831f;
+  --light-grey: #dbdbdb;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+  --gap-61xl: 80px;
+  --gap-8xs: 5px;
+  --gap-81xl: 100px;
+  --gap-31xl: 50px;
+  --gap-6xl: 25px;
+  --gap-11xl: 30px;
+  --gap-21xl: 40px;
+  --gap-76xl: 95px;
+  --gap-mini: 15px;
+
+  /* Paddings */
+  --padding-lg: 18px;
+  --padding-6xl: 25px;
+  --padding-3xs: 10px;
+  --padding-31xl: 50px;
+  --padding-mini: 15px;
+  --padding-16xl: 35px;
+  --padding-xl: 20px;
+  --padding-56xl: 75px;
+  --padding-30xl: 49px;
+  --padding-8xs: 5px;
+  --padding-86xl: 105px;
+
+  /* border radiuses */
+  --br-xs: 12px;
+  --br-6xl: 25px;
+  --br-81xl: 100px;
+  --br-mini: 15px;
+  --br-11xl: 30px;
+  --br-3xs: 10px;
+  --br-8xs: 5px;
+  --br-9xs: 4px;
+
+  /* Effects */
+  --newm-t-nav: -6.223021507263184px -6.223021507263184px 18.67px #3b4451,
+    6.223021507263184px 6.223021507263184px 18.67px #000;
+  --newm-t-btn-inner: -6.223021507263184px -6.223021507263184px 6.22px #3b4451 inset,
+    3.7338130474090576px 3.7338130474090576px 6.22px #000 inset;
+  --shadow-t-components: 0px 24px 48px -8px rgba(39, 76, 119, 0.16);
+  --newt-hover-btn: 3px 3px 6px rgba(0, 0, 0, 0.35);
+  --newm-t-components: 14px 14px 40px rgba(16, 16, 18, 0.75),
+    -7px -7px 30px #262e32;
+  --newm-t-charts-lines: 1.4312949180603027px 1.4312949180603027px 2.86px
+    rgba(136, 160, 183, 0.35);
+  --newm-t-charts: -5px -5px 5px #3b4451 inset, 3px 3px 5px #000 inset;
+}
